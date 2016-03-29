@@ -1,2 +1,7 @@
-# First-repository
-repository to get practice on github
+# include<stdio.h>
+int main()
+{
+scanf("%d",&a);
+scanf("%d",&b);
+sum=a+b;
+}
