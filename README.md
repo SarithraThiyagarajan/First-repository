@@ -1,11 +1,8 @@
 
-#include <math.h>
+
 #include <stdio.h>
-#include <string.h>
+//this header files are enough to compile
 #include <stdlib.h>
-#include <assert.h>
-#include <limits.h>
-#include <stdbool.h>
 
 int main(){
     int n,i; 
